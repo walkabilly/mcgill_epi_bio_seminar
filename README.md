@@ -1,6 +1,6 @@
 # McGill Epidemiology and Biostatistics Talk
 
-## Download .ppt presentation
+## [Download .ppt presentation](https://github.com/walkabilly/mcgill_epi_bio_seminar/blob/main/epi_bio_slides.pptx)
 
 ## Links for sections
 
