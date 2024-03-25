@@ -36,11 +36,9 @@
 2. Wearable Device Validity in Measuring Steps, Energy Expenditure, and Heart Rate Across Age, Gender, and Body Mass Index: Data Analysis From a Systematic Review  [https://www.ncbi.nlm.nih.gov/pubmed/36535270](https://www.ncbi.nlm.nih.gov/pubmed/36535270)
 3. Large-Scale Assessment of a Smartwatch to Identify Atrial Fibrillation [https://www.nejm.org/doi/full/10.1056/NEJMoa1901183](https://www.nejm.org/doi/full/10.1056/NEJMoa1901183)
 4. Defining and conceptualising the commercial determinants of health [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00013-2/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00013-2/fulltext)
+5. Why machine learning (ML) has failed physical activity research and how we can improve [https://bmjopensem.bmj.com/content/8/1/e001259](https://bmjopensem.bmj.com/content/8/1/e001259)
 
 ## Code and Data
 
-1. Wearable device systematic review
-
-Published paper: https://doi.org/10.2196/18694 
-Code: https://github.com/walkabillylab/wearable_systematic_review
-Data: https://doi.org/10.7910/DVN/O7GQIM
+* __[Data - https://dataverse.harvard.edu/dataverse/beaplab](https://dataverse.harvard.edu/dataverse/beaplab)__
+* __[Code - https://github.com/walkabilly/](https://github.com/walkabilly/)__
